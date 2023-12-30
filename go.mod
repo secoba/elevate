@@ -1,4 +1,4 @@
-module github.com/getlantern/elevate
+module github.com/secoba/elevate
 
 go 1.18
 

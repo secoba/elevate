@@ -1,14 +1,14 @@
 // this is a simple demo program that runs whatever command you give it with elevated privileges,
 // like
-//   ./demo ls /tmp
 //
+//	./demo ls /tmp
 package main
 
 import (
 	"fmt"
 	"os"
 
-	"github.com/getlantern/elevate"
+	"github.com/secoba/elevate"
 )
 
 func main() {

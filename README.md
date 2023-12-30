@@ -1,4 +1,4 @@
-[Godoc](http://godoc.org/github.com/getlantern/elevate)
+[Godoc](http://godoc.org/github.com/secoba/elevate)
 
 elevate currently only works for OS X and Windows. The Windows support
 currently uses a Visual Basic script that ends up displaying a confusing prompt
